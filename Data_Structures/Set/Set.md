@@ -1,14 +1,8 @@
 # 집합(Set)
 
-### 1. 추상 자료형(ADT) vs. 물리적 자료구조(Physical Data Structure)
+### 1. 추상 자료형(Abstract Data Type) vs. 물리적 자료구조(Physical Data Structure)
 
-자료구조는 데이터를 다루는 일련의 구조와 연산을 정의합니다.<br>
-기술이 발전하고 프로그램이 더 복잡한 요구 사항을 충족하게 되면서, 기존 자료구조에 새로운 규칙을 적용할 필요성이 생겨났습니다.<br>
-이는 데이터를 효율적으로 다루기 위한 자료구조에 **목적성(What)** 을 부여하게 만들었습니다.
-
-결과적으로, 이러한 **목적성(What)** 을 충족시키기 위해 **물리적 자료구조(Physical Data Structure)** (예: 배열, 연결 리스트 등)의 연산에 구체적인 인터페이스를 적용시키는 **추상 자료형(ADT: Abstract Data Type)** 이라는 개념이 생겨났습니다.
-
-우리가 알아볼 **집합(Set)** 은 이러한 ADT의 대표적인 예시입니다.
+[해당 내용](https://github.com/funnyhun/daily_cs_study/tree/main/Data_Structures)
 
 ---
 
@@ -37,3 +31,11 @@
 1.  **중복 확인 :** $O(N)$
 2.  **실제 삽입 :** $O(N + 1)$
 3.  **결과 :** $O(2N + 1)$
+
+---
+
+### 4. Set의 물리적 자료구조에 따른 연산 성능의 차이
+
+ing
+
+---
